@@ -1,0 +1,12 @@
+INSTALL/kT|ON
+Prerequwsltes
+
+. Python—lesseIac1IequIres pymon 2 5 or later or python 3
+
+- You wm ‘need me Python rmagmg Library (PWL) Under Deman/uoootu, this Is me package "pylhowwmagmg" or "pyIhon3—
+miagmg" lur pyIhun3
+
+. mscan google tesseraclaocr from Mtp //code go0g\e com/p/!esseracI—ocr/ You must be ame lo mvoke me |es5e(act
+command as "tesseracl" mms \sn‘l the case for examme because tesseract tin‘! no your PATH, you wm have to change
+me "Iesseract_cmd“ vaname anne lop omesseract py' Under Deblan/Ubuntu yuu can use me package "|esseract—o::I"
+
